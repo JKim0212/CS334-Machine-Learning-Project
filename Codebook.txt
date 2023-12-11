@@ -1,0 +1,35 @@
+# Estimated Owners (Target Label)
+0-20000: 0
+20000-50000: 1
+50000-100000: 2
+100000-200000: 3
+200000-500000: 4
+500000-1000000: 5
+1000000-2000000: 6
+2000000-5000000: 7
+5000000-10000000: 8
+10000000-20000000: 9 
+20000000-50000000: 10
+50000000-100000000: 11
+10000000-200000000: 12
+
+# Supported Languages
+the number of supported languages
+
+# Full Audio
+number of supported audio languages
+
+# Price
+Price of the game
+
+# DLC count
+number of DLCs the game has
+
+# Windows, Mac, Linux
+whether the game supports the respective OS; 1 is support, 0 if not
+
+# Multiplayer
+whether the game supports multiplayer or not; 1 if supported, 0 if not
+
+# Genre
+# The number of genres the game belongs to; number greater or equal to 1
